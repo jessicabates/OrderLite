@@ -1,0 +1,9 @@
+Setup
+	Select Info from DB
+		Provides list of fields
+	Select first field
+/Setup
+Patient now Made Ready
+Lock taken Off
+Apply Doses
+Select another field
